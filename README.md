@@ -1,6 +1,9 @@
 # xml-to-json-stream
 
 Simple module to convert XML to JSON with javascript
+## Updates
+- fixes to cleanXML so it strips comments correctly
+- updated with [recalcitrantQ](https://github.com/recalcitrantQ)'s child (with same tag as parent) parsing fix
 
 ## Download
 `npm install xml-to-json-stream` or `npm install xml-to-json-stream -g`
